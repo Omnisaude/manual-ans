@@ -1,5 +1,5 @@
 ---
-title: 5. Serviços ou Coberturas adicionais
+title: Serviços ou Coberturas adicionais
 sidebar_position: 5
 ---
 

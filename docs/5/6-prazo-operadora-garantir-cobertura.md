@@ -1,5 +1,5 @@
 ---
-title: 6. Prazo para a operadora garantir a cobertura solicitada
+title: Prazo para a operadora garantir a cobertura solicitada
 sidebar_position: 6
 ---
 

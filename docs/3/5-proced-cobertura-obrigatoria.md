@@ -1,5 +1,5 @@
 ---
-title: 6. Procedimentos de cobertura obrigatória pelos planos de saúde
+title: Procedimentos de cobertura obrigatória pelos planos de saúde
 sidebar_position: 6
 ---
 

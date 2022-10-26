@@ -1,5 +1,5 @@
 ---
-title: 1. Mecanismos de regulação assistencial e financeira
+title: Mecanismos de regulação assistencial e financeira
 sidebar_position: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 5. Agências Reguladoras Federais
+title: Agências Reguladoras Federais
 sidebar_position: 5
 ---
 

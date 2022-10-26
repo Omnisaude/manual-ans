@@ -1,5 +1,5 @@
 ---
-title: 9. Cobertura Parcial Temporária - CLT
+title: Cobertura Parcial Temporária - CLT
 sidebar_position: 9
 ---
 
@@ -41,7 +41,7 @@ Se identificado indício de fraude por parte do beneficiário, isto é, quando e
 preexistente na sua Declaração de Saúde, a operadora poderá:
 - Oferecer CPT pelos meses restantes, até completar o período máximo de 24 (vinte e quatro) meses da
 assinatura contratual ou da adesão ao plano [^174];
-- Oferecer o Agravo, na forma do artigo 7°, da RN n° 162/2007 [^175] ; u
+- Oferecer o Agravo, na forma do artigo 7°, da RN n° 162/2007 [^175] ; ou
 - Solicitar abertura de processo administrativo junto à ANS, quando da identificação do indício de fraude,
 ou após recusa do beneficiário à CPT, para fins de julgamento do mérito da alegação de omissão de
 conhecimento prévio de doença ou lesão [^176].
@@ -54,3 +54,16 @@ penalidades previstas na legislação em vigor [^177].
 
 ### Legislação Aplicável:
 - RN n° 162/07.
+
+
+
+
+
+[^170]: Artigo 2°, I e II, da RN n° 162/2007.
+[^171]: Artigo 5°, caput e §1°, da RN n° 162/2007.
+[^172]: Artigo 5°, §4°, da RN n° 162/2007.
+[^173]: Artigo 11, III, da RN n° 162/2007.
+[^174]: Artigo 15, I, da RN n° 162/2007.
+[^175]: Artigo 15, II, da RN n° 162/2007.
+[^176]: Artigo 15, III, da RN n° 162/2007.
+[^177]: Artigo 16, §3°, da RN n° 162/2007.

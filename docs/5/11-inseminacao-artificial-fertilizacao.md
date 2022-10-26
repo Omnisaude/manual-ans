@@ -1,5 +1,5 @@
 ---
-title: 11. Inseminação Artificial e Fertilização In vitro
+title: Inseminação Artificial e Fertilização In vitro
 sidebar_position: 11
 ---
 
@@ -168,3 +168,9 @@ econômico-financeiro para toda a universalidade de beneficiários do plano.
 - Lei nº 9.656/98;
 - RN n° 196/2009;
 - RN n° 465/21 (e suas atualizações).
+
+
+[^180]: Disponível em: http://bvsms.saude.gov.br/dicas-em-saude/151-infertilidade-feminina.
+[^181]: Disponível em: https://www.hospitalsiriolibanes.org.br/unidades/itaim/reproducao-assistida/Paginas/causas-da-infertilidade-da-mulher.aspx.
+[^182]: Art. 10 §4°, da Lei nº 9.656/98: A amplitude das coberturas, inclusive de transplantes e de procedimentos de alta complexidade, será definida por normas editadas pela ANS. 
+[^183]: Art.4o, III, da Lei nº 9.961/00: elaborar o rol de procedimentos e eventos em saúde, que constituirão referência básica para os fins do disposto na Lei no 9.656, de 3 de junho de 1998, e suas excepcionalidades.

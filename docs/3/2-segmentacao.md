@@ -1,5 +1,5 @@
 ---
-title: 3. Segmentação
+title: Segmentação
 sidebar_position: 3
 ---
 

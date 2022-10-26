@@ -1,5 +1,5 @@
 ---
-title: 5. Regras sobre canais de atendimento das operadoras
+title: Regras sobre canais de atendimento das operadoras
 sidebar_position: 5
 ---
 

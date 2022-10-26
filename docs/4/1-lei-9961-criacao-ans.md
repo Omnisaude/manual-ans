@@ -1,5 +1,5 @@
 ---
-title: 1. Lei nº 9.961 e a criação da ANS
+title: Lei nº 9.961 e a criação da ANS
 sidebar_position: 1
 ---
 

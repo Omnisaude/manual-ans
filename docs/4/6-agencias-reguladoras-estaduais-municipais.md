@@ -1,5 +1,5 @@
 ---
-title: 6. Agências Reguladoras Estaduais e Municipais
+title: Agências Reguladoras Estaduais e Municipais
 sidebar_position: 6
 ---
 

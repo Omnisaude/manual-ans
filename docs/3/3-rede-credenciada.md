@@ -1,5 +1,5 @@
 ---
-title: 4. Rede Credenciada
+title: Rede Credenciada
 sidebar_position: 4
 ---
 

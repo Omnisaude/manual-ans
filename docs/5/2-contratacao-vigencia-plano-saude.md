@@ -1,5 +1,5 @@
 ---
-title: 2. Contratação e Vigência de Planos de Saúde
+title: Contratação e Vigência de Planos de Saúde
 sidebar_position: 2
 ---
 

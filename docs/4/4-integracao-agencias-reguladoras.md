@@ -1,5 +1,5 @@
 ---
-title: 4. Integração entre as agências reguladoras e os demais órgãos - defesa da concorrência, defesa do consumidor
+title: Integração entre as agências reguladoras e os demais órgãos - defesa da concorrência, defesa do consumidor
 sidebar_position: 4
 ---
 

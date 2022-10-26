@@ -1,5 +1,5 @@
 ---
-title: 7. Urgência e Emergência
+title: Urgência e Emergência
 sidebar_position: 7
 ---
 

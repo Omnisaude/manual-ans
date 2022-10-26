@@ -1,5 +1,5 @@
 ---
-title: 3. Reembolso
+title: Reembolso
 sidebar_position: 3
 ---
 

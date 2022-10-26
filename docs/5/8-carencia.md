@@ -1,5 +1,5 @@
 ---
-title: 8. Carência
+title: Carência
 sidebar_position: 8
 ---
 
@@ -285,54 +285,54 @@ da portabilidade extraordinária de carências pelos seus beneficiários.
 
 
 
-[^126]:
-[^127]:
-[^128]:
-[^129]:
+[^126]: Artigo 12, V, alínea “a”, da Lei nº 9.656/98.
+[^127]: Artigo 12, V, alínea “b”, da Lei nº 9.656/98.
+[^128]: Artigo 12, V alínea “c”, da Lei nº 9.656/98.
+[^129]: Artigo 16, III, da Lei nº 9.656/98.
 
-[^130]:
-[^131]:
-[^132]:
-[^133]:
-[^134]:
-[^135]:
-[^136]:
-[^137]:
-[^138]:
-[^139]:
+[^130]: Artigo 6°, da RN n° 195/2009.
+[^131]: Artigo 11, caput, da RN n° 195/2009.
+[^132]: Artigo 11, §1°, da RN n° 195/2009.
+[^133]: Artigo 12, V, alínea “b”, da Lei nº 9.656/98
+[^134]: Artigo 4°, parágrafo único, da Resolução CONSU n° 13/98.
+[^135]: Artigo 2°, parágrafo único, c/c artigo 3°, §1°, ambos da Resolução CONSU n° 13/98.
+[^136]: Artigo 7°, §1°, da Resolução CONSU n° 13/98.
+[^137]: Artigo 12, III, alínea “b”, Lei nº 9.656/98.
+[^138]: Artigo 4°, da RN n° 438, de 2019.
+[^139]: Artigo 3°, IV, da RN n° 438, de 2019.
 
-[^140]:
-[^141]:
-[^142]:
-[^143]:
-[^144]:
-[^145]:
-[^146]:
-[^147]:
-[^148]:
-[^149]:
+[^140]: Artigo 3°, I, da RN n° 438, de 2019.
+[^141]: Artigo 3°, II, da RN n° 438, de 2019.
+[^142]: Cobertura Parcial Temporária (CPT) é a suspensão da cobertura, por um período ininterrupto de até 24 meses, de procedimentos de alta complexidade, leitos de alta tecnologia e procedimentos cirúrgicos relacionados exclusivamente às doenças ou lesões preexistentes (DLP) declaradas pelo beneficiário ou pelo seu representante legal no momento da contratação ou adesão ao plano privado de assistência à saúde.
+[^143]: Artigo 3°, III, alínea “a”, da RN n° 438, de 2019.
+[^144]: Artigo 3°, III, alínea “b”, da RN n° 438, de 2019.
+[^145]: Artigo 3°, V, da RN n° 438, de 2019.
+[^146]: Artigo 3°, VI, da RN n° 438, de 2019.
+[^147]: O consumidor deve acessar o Guia ANS, disponível em: https://www.ans.gov.br/gpw-beneficiario/), colocar os dados do seu plano e verificar a lista de planos equivalentes para os quais ele poderá portar.
+[^148]: Artigo 14, da RN n° 438, de 2019.
+[^149]: Artigo 3°, §5°, da RN n° 438, de 2019.
 
-[^150]:
-[^151]:
-[^152]:
-[^153]:
-[^154]:
-[^155]:
-[^156]:
-[^157]:
-[^158]:
-[^159]:
+[^150]: Artigo 3°, §6°, da RN n° 438, de 2019.
+[^151]: Artigo 12, § 2°, da RN n° 438, de 2019.
+[^152]: Artigo 12, da RN n° 438, de 2019.
+[^153]: Artigo 8°, IV, da RN n° 438, de 2019.
+[^154]: Artigo 8°, I, da RN n° 438, de 2019.
+[^155]: Artigo 8°, III, da RN n° 438, de 2019.
+[^156]: Artigo 8°, II, da RN n° 438, de 2019.
+[^157]: Artigo 8°, § 1°, da RN n° 438, de 2019.
+[^158]: Artigo 8°, §3°, da RN n° 438, de 2019.
+[^159]: Artigo 8°, §4°, da RN n° 438, de 2019.
 
-[^160]:
-[^161]:
-[^162]:
-[^163]:
-[^164]:
-[^165]:
-[^166]:
-[^167]:
-[^168]:
-[^169]: 
+[^160]: Artigo 8°, § 2°, da RN n° 438, de 2019.
+[^161]: Artigo 13, da RN n° 438, de 2019.
+[^162]: Artigo 16, I, da RN n° 438, de 2019.
+[^163]: Artigo 16, II, da RN n° 438, de 2019.
+[^164]: Artigo 16, III, da RN n° 438, de 2019.
+[^165]: Artigo 16, IV, da RN n° 438, de 2019.
+[^166]: Artigo 17, da RN n° 438, de 2019.
+[^167]: Artigo 18, da RN n° 438, de 2019.
+[^168]: Artigo 18, § 2°, da RN 438, de 2019.
+[^169]: Artigo 11, caput c/c parágrafo único, da RN n° 438, de 2019.
 
 
 

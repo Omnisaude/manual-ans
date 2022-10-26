@@ -1,5 +1,5 @@
 ---
-title: 2. Lei nº 9.565/98 e seus principais aspectos
+title: Lei nº 9.565/98 e seus principais aspectos
 sidebar_position: 2
 ---
 

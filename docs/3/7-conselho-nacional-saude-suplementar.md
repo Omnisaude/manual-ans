@@ -1,5 +1,5 @@
 ---
-title: 8. Conselho Nacional de Saúde Suplementar - CONSU
+title: Conselho Nacional de Saúde Suplementar - CONSU
 sidebar_position: 8
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 10. Home Care
+title: Home Care
 sidebar_position: 10
 ---
 
@@ -210,3 +210,11 @@ coletivos a todo o setor.
 - RDC n° 11/2006 ANVISA;
 - RN n° 465/2021 (e suas atualizações);
 - Parecer Técnico n° 05/2019 [^179].
+
+
+
+
+
+
+[^178]: Disponível em: https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/pareceres-tecnicos-da-ans-1
+[^179]: Disponível em: https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/pareceres-tecnicos-da-ans-1.

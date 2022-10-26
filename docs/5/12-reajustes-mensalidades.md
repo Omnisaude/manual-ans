@@ -1,5 +1,5 @@
 ---
-title: 12. Reajustes de Mensalidades
+title: Reajustes de Mensalidades
 sidebar_position: 12
 ---
 
@@ -576,3 +576,51 @@ As regras para a realização de revisão técnica das contraprestações pecuni
 tipo de revisão é uma exceção destinada a um determinado plano de saúde que esteja em desequilíbrio
 econômico-financeiro, situação que ameaça a continuidade dos serviços de saúde aos beneficiários desse
 plano.
+
+
+
+
+[^184]: Art. 35-E.  A partir de 5 de junho de 1998, fica estabelecido para os contratos celebrados anteriormente à data de vigência desta Lei que: I - qualquer variação na contraprestação pecuniária para consumidores com mais de sessenta anos de idade estará sujeita à autorização prévia da ANS;
+[^185]: Art. 35-E. [...]  § 1o  Os contratos anteriores à vigência desta Lei, que estabeleçam reajuste por mudança de faixa etária com idade inicial em sessenta anos ou mais, deverão
+ser adaptados, até 31 de outubro de 1999, para repactuação da cláusula de reajuste, observadas as seguintes disposições: 
+- I - a repactuação será garantida aos consumidores de que trata o parágrafo único do art. 15, para as mudanças de faixa etária ocorridas após a vigência desta Lei, e limitar-se-á à diluição da aplicação do reajuste anteriormente previsto, em reajustes parciais anuais, com adoção de percentual fixo que, aplicado a cada ano, permita atingir o reajuste integral no início do último ano da faixa etária considerada; 
+- II - para aplicação da fórmula de diluição, consideram-se de dez anos as faixas etárias que tenham sido estipuladas sem limite superior; 
+- III - a nova cláusula, contendo a fórmula de aplicação do reajuste, deverá ser encaminhada aos consumidores, juntamente com o boleto ou título de cobrança, com a demonstração do valor originalmente contratado, do valor repactuado e do percentual de reajuste anual fixo, esclarecendo, ainda, que o seu pagamento formalizará esta repactuação; 
+- IV - a cláusula original de reajuste deverá ter sido previamente submetida à ANS; 
+- V - na falta de aprovação prévia, a operadora, para que possa aplicar reajuste por faixa etária a consumidores com sessenta anos ou mais de idade e dez anos ou mais de contrato, deverá submeter à ANS as condições contratuais acompanhadas de nota técnica, para, uma vez aprovada a cláusula e o percentual de reajuste, adotar a diluição prevista neste parágrafo.
+[^186]: Antes da cautelar concedida junto à ADI 1931-8, nos contratos firmados em data anterior à vigência da Lei nº 9.656/98 era necessária a autorização do órgão competente à época, no caso, a SUSEP e a ANS, após 2000, para aplicação de reajuste por faixa etária para consumidores com 60 anos ou mais e participantes há mais de 10 anos nos produtos contratados das operadoras. Nestes casos, o artigo 35-E da Lei nº 9.656/98 previa a diluição do percentual de reajuste autorizado ao longo de dez anos.
+[^187]: MP n° 2.122-2 de 2001.
+[^188]: O Artigo 10, §2°, da Lei n° 9.656/98, com redação dada pela MP n° 1908-18, continha a seguinte redação: as empresas que comercializam produtos definidos no inciso I e no §1° do art. 1° desta Lei oferecerão, obrigatoriamente, a partir de 3 de dezembro de 1999, o plano referência de que trata este artigo a todos os atuais e futuros consumidores.
+[^189]: Disponível em: http://www.stf.jus.br/portal.
+[^190]: Artigo 15, caput, da Lei nº 9.656/98.
+[^191]: Artigo 9°, da RN n° 171/2008.
+[^192]: Estabelece critérios para aplicação de reajuste das contraprestações pecuniárias dos planos privados de assistência suplementar à saúde, médico-hospitalares, com ou sem cobertura odontológica, contratada por pessoas físicas ou jurídicas
+[^193]: Artigo 2°, caput, da RN n° 441/2018.
+[^194]: Artigo 4°, da RN n° 441/2018.
+[^195]: Artigo 7°, da RN n° 441/2018.
+[^196]: Artigo 2°, I e II, da RN n° 441/2018.
+[^197]: Artigo 4°, da RN n° 441/2018.
+[^198]: Artigo 5°, da RN n° 441/2018.
+[^199]: Artigo 6°, da RN n° 441/2018.
+[^200]: Artigo 14, §3°, da RN n° 389/2015.
+[^201]: Artigo 16, da RN n° 389/2015.
+[^202]: Artigo 2°. I, da RN n° 309/2012.
+[^203]: Dispõe sobre o agrupamento de contratos coletivos de planos privados de assistência à saúde para fins de cálculo e aplicação de reajuste.
+[^204]: Artigo 3°, §1°, da RN n° 309/2012.
+[^205]: Artigo 1°, parágrafo único, I, II, III, da RN n° 309/2012.
+[^206]: A aplicação de reajustes desses planos é regulada pela RN n° 172/2008.
+[^207]: Artigo 8°, da RN n° 309/2012.
+[^208]: Os pareceres técnicos da agência estão disponíveis em: https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/pareceres-tecnicos-da-ans-1
+[^209]: Artigo 15, §3°, da Lei 10.741/2003.
+[^210]: Artigo 12, §4°, da RN n° 171/2008.
+[^211]: Artigo 1°, da CONSU n° 06/1998.
+[^212]: Artigo 2°, §1°, da Resolução CONSU n° 06/1998.
+[^213]: Artigo 3°, I, da RN n° 63/2003.
+[^214]: Artigo 3°, II, da RN n° 63/2003.
+[^215]: Artigo 15, I, da RN n° 389/2015;
+[^216]: Artigo 15, II, da RN n° 389/2015;
+[^217]: Artigo 15, III, da RN n° 389/2015.
+[^218]: Artigo 7°, 8° e 9°, da RN n° 389/2015.
+[^219]: Artigo 5°, caput c/c parágrafo único, da RN n° 389/2015.
+[^220]: Artigo 14, §1°, da RN n° 389/2015.
+[^221]: Artigo 16, da RN n° 389/2015.

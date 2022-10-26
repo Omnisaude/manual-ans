@@ -1,5 +1,5 @@
 ---
-title: 7. Análise de Impacto Regulatório
+title: Análise de Impacto Regulatório
 sidebar_position: 7
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 4. Demitidos, Exonerados e Aposentados - Manutenção da condição de Beneficiário
+title: Demitidos, Exonerados e Aposentados - Manutenção da condição de Beneficiário
 sidebar_position: 4
 ---
 

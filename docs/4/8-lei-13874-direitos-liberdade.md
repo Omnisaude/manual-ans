@@ -1,5 +1,5 @@
 ---
-title: 8. Lei nº 13.874, de 20 de setembro de 2019 - Institui a declaração de direitos da liberdade econômica
+title: Lei nº 13.874, de 20 de setembro de 2019 - Institui a declaração de direitos da liberdade econômica
 sidebar_position: 8
 ---
 

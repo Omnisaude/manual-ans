@@ -1,5 +1,5 @@
 ---
-title: 9. Decreto nº 10.411/2020 - Regulamenta a análise de impacto regulatório
+title: Decreto nº 10.411/2020 - Regulamenta a análise de impacto regulatório
 sidebar_position: 9
 ---
 

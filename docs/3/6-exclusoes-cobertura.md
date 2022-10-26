@@ -1,5 +1,5 @@
 ---
-title: 7. Exclusões de cobertura
+title: Exclusões de cobertura
 sidebar_position: 7
 ---
 
